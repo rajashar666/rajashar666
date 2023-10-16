@@ -1,4 +1,4 @@
-<img src="https://eccommonstorage.blob.core.windows.net/codered/uploads/VwwbpnI8PxR7mo0Q4m3YQbgNceLx9Gi0hdUZBdFj.jpg">
+<img src="https://eccommonstorage.blob.core.windows.net/codered/uploads/VwwbpnI8PxR7mo0Q4m3YQbgNceLx9Gi0hdUZBdFj.jpg" width="350px">
 <h1 align="center">Hi 👋, I'm rajashar666</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
